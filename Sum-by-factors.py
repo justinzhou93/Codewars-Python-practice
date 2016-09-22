@@ -32,4 +32,4 @@ def sum_for_list(lst):
                 msum += lst[j]
         sums.append([factors[i], msum])
     sums.sort(key=lambda factors:factors[0])
-    return sums
+    return sums 
