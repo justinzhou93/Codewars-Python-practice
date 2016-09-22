@@ -31,4 +31,4 @@ def next_bigger(n):
 
 
 #print make_smallest(1234567980, 8)
-print next_bigger(294173)
+print next_bigger(294173) 
