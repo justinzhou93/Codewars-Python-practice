@@ -28,4 +28,4 @@ def format_duration(seconds):
                     mystr = str(time[len(time) - i - 1]) + " " + units[len(time) - i - 1] + mystr
     print mystr
 
-format_duration(0)
+format_duration(0) 
