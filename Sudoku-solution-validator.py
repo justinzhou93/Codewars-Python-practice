@@ -28,4 +28,4 @@ def validSolution(board):
                         return False
             if gadd != 45:
                 return False
-    return True
+    return True 
