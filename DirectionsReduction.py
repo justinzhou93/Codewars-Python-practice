@@ -20,4 +20,4 @@ def conflicts(arr):
     else:
         return -1
 
-print dirReduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]) 
+print dirReduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"])
