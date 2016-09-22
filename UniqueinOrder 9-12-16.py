@@ -9,4 +9,4 @@ def unique_in_order(iterable):
             mlist.append(iterable[i])
     print mlist
 
-unique_in_order(['A', 'A'])
+unique_in_order(['A', 'A']) 
