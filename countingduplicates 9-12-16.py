@@ -7,4 +7,4 @@ def duplicate_count(text):
                 mlist.append(text[i])
     print len(mlist)
 
-duplicate_count("Indivisibilities")
+duplicate_count("Indivisibilities") 
