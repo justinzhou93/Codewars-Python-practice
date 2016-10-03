@@ -29,6 +29,3 @@ def is_balanced(source, caps):
     if len(mstack) > 0:
         return False
     return True
-
-
-print is_balanced("-ab@cd@e@fghi-", "--@@")
