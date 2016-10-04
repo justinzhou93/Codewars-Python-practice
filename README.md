@@ -1,4 +1,4 @@
-# Codewars-Sum-of-Digits-Digital-Root-6kyu-
+# Codewars-Python-practice
 Codewars Python practice
 
 Each file contains a different problem that can be found on codewars.com.
